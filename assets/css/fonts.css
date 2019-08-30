@@ -1,0 +1,29 @@
+@font-face{
+	font-family:'Noteworthy';
+}
+
+.site-body p {
+font-size: 17px;
+}
+
+.site-body button{
+	font-size: 22px;
+	color: white;
+}
+
+.text-centered {
+ text-align: center;
+}
+
+p {
+  font-size: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .footer-box{
+	font-size: 10px;
+	background-color: #f6f6ce;
+	margin-bottom: 0px;
+	padding: 4px 0px; 
+	width: 100%;
+}

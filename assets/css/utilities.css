@@ -1,0 +1,60 @@
+.main-nav a{
+	color: white;
+}
+.main-nav {
+	background-color: #301804;
+	width: 100%;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	font-size: 20px;
+}
+
+.nav-link a:hover { 
+  background-color:#e90ea9;
+}
+
+.pink {
+	color:#e90ea9;
+}
+
+.noteworthy-font{
+	font-family: Noteworthy;
+	font-size: 31px;
+}
+
+.nav-bottom {
+	border-bottom: 3px solid #301804;
+	margin-bottom: 0px;
+ }
+
+
+/*IMAGES */
+.happy-mom{
+	height: 400px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.babyhappy{
+	height: 190px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.family{
+	height: 190px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mom1{
+	height: 190px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*IMAGES ENDS */
+
