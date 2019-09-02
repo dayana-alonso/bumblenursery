@@ -1,0 +1,17 @@
+
+/*Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) {
+	.main-nav li {
+		display: block;
+		border-bottom: 1px #442205 solid;
+		padding: 5px 0px;
+	}
+
+	.helping-col {
+		margin-bottom: 30px;
+	}
+
+	.helping-col:last-child {
+		margin-bottom: 0px;
+	}
+}

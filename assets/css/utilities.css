@@ -1,16 +1,31 @@
-.main-nav a{
+.main-nav a {
 	color: white;
 }
+
 .main-nav {
 	background-color: #301804;
 	width: 100%;
-	padding-bottom: 4px;
-	padding-top: 4px;
+}
+
+.main-nav ul {
+	list-style: none;
+	padding: 10px 0px;
+	margin: 0px;
+	margin: 0px auto;
+}
+
+.main-nav li {
+	display: inline;
+	margin: 0px 30px;
 	font-size: 20px;
 }
 
 .nav-link a:hover { 
   background-color:#e90ea9;
+}
+
+.navbar-collapse {
+	color: #fff;
 }
 
 .pink {
@@ -26,35 +41,3 @@
 	border-bottom: 3px solid #301804;
 	margin-bottom: 0px;
  }
-
-
-/*IMAGES */
-.happy-mom{
-	height: 400px;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.babyhappy{
-	height: 190px;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.family{
-	height: 190px;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.mom1{
-	height: 190px;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-/*IMAGES ENDS */
-
